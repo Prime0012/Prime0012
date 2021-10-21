@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prime0012
 - 👀 I’m interested in Proggraming Computer/Mobi Applications.
 - 🌱 I’m currently learning in School.
-- 💞️ I’m looking to collaborate on learning to devlop complex application proggrams.
+- 💞️ I’m looking to collaborate ...
 - 📫 How to reach me : exists on universe/milky_way/solar_system/earth.
 
 <!---
